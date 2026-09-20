@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==20.7
+ccxt==4.2.25
+pandas==2.2.2
+pandas_ta==0.3.14b0
+mplfinance==0.12.10b0
